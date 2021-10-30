@@ -1,6 +1,6 @@
 Package: discretefit
 Title: Simulated Goodness-of-Fit Tests for Discrete Distributions
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(given = "Josh",
            family = "McCormick",
@@ -25,8 +25,8 @@ Config/testthat/edition: 3
 VignetteBuilder: knitr
 SystemRequirements: C++11
 NeedsCompilation: yes
-Packaged: 2021-10-21 06:32:32 UTC; Josh
+Packaged: 2021-10-30 15:47:35 UTC; Josh
 Author: Josh McCormick [aut, cre]
 Maintainer: Josh McCormick <josh.mccormick@aya.yale.edu>
 Repository: CRAN
-Date/Publication: 2021-10-25 07:00:13 UTC
+Date/Publication: 2021-10-30 22:30:05 UTC

@@ -1,7 +1,7 @@
-47745d9eb7fb7d7309eba075f6a83c64 *DESCRIPTION
+bb4561a59348c64750ddd6550dab7288 *DESCRIPTION
 faadcf27c6747658bdb40be8309b01a0 *LICENSE
 904d7ca29df106bfdb4344da644f5a48 *NAMESPACE
-24b2fcae349e3f016010920a9a5b72fd *NEWS.md
+e6e80622920baddb213a06684ca57b7c *NEWS.md
 dfeffa80ee18c23a4bd4425c554f62e7 *R/RcppExports.R
 e5aaec3351030a0c48bbeb79e9ebb490 *R/chisq_gof.R
 2e3f615969a105195033d29d62f2af11 *R/cvm_gof.R
@@ -10,11 +10,11 @@ e5aaec3351030a0c48bbeb79e9ebb490 *R/chisq_gof.R
 673fef13b5594fa3c786a054b2cb54e1 *R/ks_gof.R
 f827fdb0c2dd8ecc94df067563012620 *R/rms_gof.R
 25e0b56cc90083b80ecc5cc1242ee0f6 *R/utils.R
-6dbb5e8fb447999442a7254bc6b381f2 *README.md
+2e438a67dc2b2fc0a457d94fc92b8e2f *README.md
 e01a63c91751935ecdc9f999cbde902c *build/vignette.rds
 ce0e1f62a5bb8cfa15a14c7046b96437 *inst/doc/package_introduction.R
-62744e97bfe7880aa26db01fb617ff20 *inst/doc/package_introduction.Rmd
-e482cbca9e4f579809ce740676b6215c *inst/doc/package_introduction.html
+17db6503ea107608abbfb9bf71343da2 *inst/doc/package_introduction.Rmd
+e3d10c8c353141184b322274e95fde71 *inst/doc/package_introduction.html
 7afa1b95666b5d09d2be3160072ebd18 *man/chisq_gof.Rd
 1b1af8109018c74bc11ece4d0be049fd *man/cvm_gof.Rd
 59a55b5275dd916d4e14369617a4f024 *man/ft_gof.Rd
@@ -24,9 +24,9 @@ f16d9f5614938f46aa50099e334f22d9 *man/rms_gof.Rd
 f5f2738e13e8545b3b2c8e0054d3c3d7 *src/RcppExports.cpp
 f61639c3d5d3a38b0dbee7c2f8beba40 *src/discretefit.h
 ff962f8662ff9904b3d474b7a336b18e *src/simulate_p.cpp
-1f89cc6906b2c2b6a600360a3b34c281 *src/statistics.cpp
+d870e6f58afd2cf256012fb24bc83af9 *src/statistics.cpp
 c6b95c53a76c0bf00b47cd9bee50e424 *src/utils.cpp
 9e1672f0cecf9153024a64e2033f4689 *tests/testthat.R
 f6f2dcdcd991416de9a0c8ebe9208e29 *tests/testthat/test-results.R
 374bcf4f83c80c6c8fedfbea1de31825 *tests/testthat/test-stats.R
-62744e97bfe7880aa26db01fb617ff20 *vignettes/package_introduction.Rmd
+17db6503ea107608abbfb9bf71343da2 *vignettes/package_introduction.Rmd
